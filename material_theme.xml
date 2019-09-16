@@ -4,11 +4,12 @@
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="treeFontSize" value="13" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="treeFontSize" value="14" />
+    <option name="tabFontSize" value="14" />
     <option name="indicatorThickness" value="4" />
-    <option name="settingsSelectedTab" value="3" />
-    <option name="accentColor" value="84ffff" />
-    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="accentColor" value="009688" />
     <option name="userId" value="55a70607:16d37838b36:-8000" />
     <option name="version" value="4.5.1" />
   </component>
