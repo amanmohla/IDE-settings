@@ -14,4 +14,7 @@
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
+  <action id="Terminal.SwitchFocusToEditor">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
 </keymap>
